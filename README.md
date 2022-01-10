@@ -4,7 +4,7 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kingbee12)](https://solved.ac/kingbee12)
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Day-Coding.gif" align="right">
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
 
 
 ### 💪 MY STATS
