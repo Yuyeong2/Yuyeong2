@@ -8,7 +8,7 @@
 
 
 ### 💪 MY STATS
-![Yuyeong2's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdyeyoun&theme=tokyonight&show_icons=true)
+![Yuyeong2's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingbee12&theme=tokyonight&show_icons=true)
 <hr>
 
 <!--
