@@ -1,6 +1,6 @@
 ### Hi there 👋
 ---
-<a href="mailto:403467@naver.com" target="_black"><img src="https://img.shields.io/badge/403467@naver.com-62B47A?style=flat-square&logo=Naver&logoColor=white"/></a>
+<a href="mailto:sidney222@naver.com" target="_black"><img src="https://img.shields.io/badge/sidney222@naver.com-62B47A?style=flat-square&logo=Naver&logoColor=white"/></a>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kingbee12)](https://solved.ac/kingbee12)
